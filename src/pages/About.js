@@ -1,6 +1,8 @@
 import React from 'react';
 import { Fade } from "react-awesome-reveal";
 import {ImPlus} from 'react-icons/im'; 
+import { Link } from 'react-router-dom';
+
 const About = () => {
   return (
     <>
@@ -68,6 +70,25 @@ const About = () => {
       In relation to educational psychology frameworks, I see important contributions that come from each of them and I avoid strongly positioning myself against any theory. Instead, I recognize their positives while critically analysing the aspects that could have been better developed in my opinion. I believe in the construction of knowledge through critical thinking, dialogue, creative production and active engagement of learners in their own learning processes. In addition, I am convinced that the environment/context is crucial for the learning to occur and it goes much beyond the school or the classroom. All experiences of a student can affect their learning and should be considered in that process. Previous learnings, diet, quality and amount of sleep, beliefs, culture, self-esteem, traumas, interests and life goals are just some of the many elements that play important roles in how much a student will engage and be able to acquire knowledge. Relationships with friends, teacher and family are equally relevant. That said, a social constructivist tendency is undeniable in my discourse and professional practice.
       </div>
     </div>
+    <nav aria-label="Page navigation">
+  <ul className="pagination justify-content-around m-4">
+  <li className="page-item">
+    <Link className="page-link" to="/" aria-label="Previous">
+        <span aria-hidden="true">&laquo; Back</span>
+        <span className="sr-only">Back</span>
+      </Link>
+    </li>
+
+    <li className="page-item">
+    <Link className="page-link" to="/Experience" aria-label="Next">
+        <span aria-hidden="true">Next &raquo;</span>
+        <span className="sr-only">Next</span>
+      </Link>
+    </li>
+
+  </ul>
+</nav>
+
   </div>
 </div>
 

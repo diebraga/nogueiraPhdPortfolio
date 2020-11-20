@@ -1,5 +1,6 @@
 import React from 'react';
 import { Fade } from "react-awesome-reveal";
+import { Link } from 'react-router-dom';
 
 const Presentation = () => {
   return (
@@ -63,6 +64,25 @@ const Presentation = () => {
           </p>
 
             </div>
+            <nav aria-label="Page navigation">
+  <ul class="pagination justify-content-around m-4">
+  <li class="page-item">
+    <Link class="page-link" to="/Publications" aria-label="Previous">
+        <span aria-hidden="true">&laquo; Back</span>
+        <span class="sr-only">Back</span>
+      </Link>
+    </li>
+
+    <li class="page-item">
+    <Link class="page-link" to="/Professional" aria-label="Next">
+        <span aria-hidden="true">Next &raquo;</span>
+        <span class="sr-only">Next</span>
+      </Link>
+    </li>
+
+  </ul>
+</nav>
+
         </div>
         </div>
         </Fade>

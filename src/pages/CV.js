@@ -1,5 +1,6 @@
 import React from 'react';
 import { Fade } from "react-awesome-reveal";
+import { Link } from 'react-router-dom';
 import {AiOutlineLink} from 'react-icons/ai'
 const CV = () => {
   return (
@@ -25,6 +26,18 @@ const CV = () => {
         </p>
 
         </div>
+        <nav aria-label="Page navigation">
+  <ul class="pagination justify-content-around m-2">
+  <li class="page-item">
+    <Link class="page-link" to="/Professional" aria-label="Previous">
+        <span aria-hidden="true">&laquo; Back</span>
+        <span class="sr-only">Back</span>
+      </Link>
+    </li>
+
+  </ul>
+</nav>
+
         </div>
         </Fade>
     </>

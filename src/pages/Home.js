@@ -1,6 +1,6 @@
 import React from 'react';
 import { Fade } from "react-awesome-reveal";
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import IMG from '../assets/image.jpeg'
 
 const Home = () => {
@@ -18,17 +18,24 @@ const Home = () => {
         <br/><br/>
         In this document, I will list the work I have previously executed, content I have produced, and achievements I have accumulated. Further to that, I also hope to introduce myself as both a person and a professional, by elaborating upon each meaningful step of my career which has brought me to where I am today. Additionally, I will highlight how my career so far is motivating me to go forward.
 <br/><br/>
-        To navigate, just scroll down or click on the specific sections on the left of the page.
+        To navigate, just scroll down or click on the specific sections on the top of the page.
         </p>
         </div>
+<nav aria-label="Page navigation mt-4">
+  <ul className="pagination justify-content-around">
+    <li className="page-item">
+    <Link className="page-link" to="/About" aria-label="Next">
+        <span aria-hidden="true">Next &raquo;</span>
+        <span className="sr-only">Next</span>
+      </Link>
+    </li>
+  </ul>
+</nav>
+
         </div>
+        
         </div>
         </Fade>
-        <ul className="navbar-nav text-center pagination footer">
-        <li className="nav-item">
-          <NavLink className="page-link" to='/About'>Next >></NavLink >
-        </li>
-</ul>
     </>
   )
 }
