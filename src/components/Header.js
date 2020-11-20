@@ -19,7 +19,7 @@ const Header = () => {
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <Link className="nav-link" to='/About'>About</Link >
+          <Link className="nav-link " to='/About'>About</Link >
         </li>
         <li className="nav-item">
           <Link className="nav-link" to='/Experience'>Work Experience</Link >
@@ -42,8 +42,11 @@ const Header = () => {
       </ul>
     </div>
   </nav>
+  
   );
+  
 };
+
 
 
 export default Header;

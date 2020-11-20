@@ -19,5 +19,16 @@ export default createGlobalStyle`
     border: 3px;
   }
 
+  .profile {
+    flex-direction: column;
+    img {
+      max-width: 260px;
+    }
+    @media (min-width: 760px) {
+      flex-direction: row;
+    }
+  }
+
+
   
 `
