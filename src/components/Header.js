@@ -25,19 +25,19 @@ const Header = () => {
           <Link className="nav-link" to='/Experience'>Work Experience</Link >
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to='/Researchgrants'>Research grants</Link >
+          <Link className="nav-link" to='/Research'>Research grants</Link >
         </li>
         <li className="nav-item">
           <Link className="nav-link" to='/Publications'>Publications</Link >
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to='/Presentationsandlectures'>Presentations & lectures</Link >
+          <Link className="nav-link" to='/Presentations'>Presentations & lectures</Link >
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to='/Professionaldevelopment'>Professional development</Link >
+          <Link className="nav-link" to='/Professional'>Professional development</Link >
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to='/CV&IELTS'>CV & IELTS</Link >
+          <Link className="nav-link" to='/CV'>CV & IELTS</Link >
         </li>
       </ul>
     </div>
