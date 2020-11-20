@@ -60,8 +60,77 @@ UL's School of Education is the largest post-primary teacher education provider 
     <br />
     <a className='' href='https://www.ul.ie/courses/bachelor-education-languages' rel="noopener noreferrer">https://www.ul.ie/courses/bachelor-education-languages</a>
     </p>
+    <h3 className='pt-4'>Research experience</h3>
+    <h5>RESEARCH ASSISTANT</h5>
+    <div className='d-flex justify-content-between'>
+    <p>University of Limerick, Ireland</p>
+    <p>(Aug 19 – Mar 20)</p>
+    </div>
+    <p>
+    This research aims to explore the perceptions and practices of Irish post-primary teachers towards the teaching of poetry in Transition Year (TY). Within the Irish Educational System, the TY purports to offer pupils a broad educational experience which is not subject to the examination focus and pressures of the Leaving Certificate (LC). The 'backwash effect" of the LC has however had considerable impact on pedagogy at Junior Certificate level. The impact of this 'backwash' effect has not to date been explored with respect to poetry pedagogy in Transition Year. This research employs the use of semi-structured interviews of 15 teachers of TY English from different parts of the country. As a research assistant, I participated in the writing of documents, such as research ethics application form, consent forms, among other. In addition, I selected and interviewed all participants using an online App (MS Teams). The interviews were recorded and transcribed by me.
+    <br/>
+    PI: Dr. Jennifer Hennessy.
+    </p>
+    <br/>
+    <h5>RESEARCH STRAND COORDINATOR – PROFESSIONAL MASTER OF EDUCATION</h5>
+    <div className='d-flex justify-content-between'>
+    <p>University of Limerick, Ireland</p>
+    <p>(Sep 20 – present)</p>
+    </div>
+    <p>
+    Liaised with circa 20 research supervisors and led the grading process for the research strand. The responsibilities included assigning students to supervisors and dealing with student queries and issues with respect to their research project.  
+    </p>
+
+    <br/>
+    <h5>RESEARCH ASSISTANT</h5>
+    <div className='d-flex justify-content-between'>
+    <p>University of Limerick, Ireland</p>
+    <p>(Nov 18)</p>
+    </div>
+    <p>
+    TITLE: THE EVALUATION OF ICT AND PROFESSIONALISM DURING SCHOOL PLACEMENT    <br/>
+    This research aims to explore how 'ICT' and 'professionalism' are assessed during the School Placement component on an ITE programme. This study was conducted to explore what messages student teachers receive from teacher educators during placement in relation to ICT and professionalism. Findings highlight that technology was seen exclusively as a presentation aid for teaching and concerns were expressed by field instructors about ‘overuse’ of technology by the pre-service teachers. As a research assistant, I was involved in the selection of participants and interviewed 10 of them. The interviews were face-to-face and recorded. Two articles are currently under review for publication.
+    <br/>
+    PIs: Dr. Ciarán Ó Gallchóir, Dr Oliver McGarr.
+        </p>
+
+    <br/>
+    <h5>GOVERNANCE RESEARCH ASSOCIATE</h5>
+    <div className='d-flex justify-content-between'>
+    <p>Glass Lewis – Limerick, Ireland</p>
+    <p>(Feb 18 – May 18; Feb 17 – Apr 17)</p>
+    </div>
+    <p>
+    Developed qualitative and quantitative research on corporative governance and executive compensation of European and South American public companies. Had the support of a team but worked mostly independently to write detailed reports/ proxy papers respecting tight deadlines.     </p>
+
+    <br/>
+    <h5>RESEARCHER</h5>
+    <div className='d-flex justify-content-between'>
+    <p>Pontifícia Univ. Católica de SP (PUC-SP) – São Paulo, Brazil</p>
+    <p>(Jan 14 – Jun 16)</p>
+    </div>
+    <p>
+    TITLE: EDUCATION IN THE CONTEMPORARY CONTEXT AND THE COMPLEX THINKING
+        <br/>
+        This theoretical research aimed to identify approaches between the following theories: Semiotics of Charles Sanders Peirce, historical-cultural of Lev S. Vygotsky, the complex theory of Edgar Morin and the connectivism of Siemens and Downes, prioritizing the issues surrounding education in the contemporary context. The method adopted included careful readings of the existent literature, the use of reading records and a case study that together allowed the careful and systematic analysis of the materials, as well as the organization of some of the key concepts of each theory, relevant to further discussions. The importance of the social nature of man was highlighted and related to their development. Language is commonly understood as fundamental in the human development process and has been addressed here in a specific way, with emphasis on learning new words, considered linguistic signs, in a foreign language. Examples of both literature and real life were presented and analysed, allowing the establishment of approaches and reflections on the theories adopted. Finally, it became evident the need to promote an education able to reconcile different strategies, ideas and experiences of successful learning, recognizing the complexity of the phenomena and driving more discussions and studies for the progress of classroom and online education
+            </p>
+
+    <br/>
+    <h5>RESEARCHER</h5>
+    <div className='d-flex justify-content-between'>
+    <p>Universidade Estadual de Campinas (UNICAMP) – Campinas, Brazil</p>
+    <p>(May 12 – Jan 13)</p>
+    </div>
+    <p>
+    TITLE: THE AFFECTIVITY IN THE PROCESS OF RESEARCH SUPERVISION
+        <br/>
+        The aim of this research is to describe and analyse the positive affective impacts of pedagogical practices developed by a research supervisor on the relationship between the student and her research practices. The educational psychology framework was based particularly on the studies of Vigotsky and Wallon. It adopted thematic analysis conducted on subject (student) interview. Thus, it was possible to identify in the student’s speech positive impacts of the pedagogical mediation performed by the supervisor and the establishment of an affectively positive relationship between them that allowed an equally positive relationship between the subject and practice of scientific research. 
+            </p>
+
         </div>
+        
         </div>
+        
         </div>
         </Fade>
     </>
